@@ -1,0 +1,10 @@
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\bin\Debug\stachtestdatetime.exe.config
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\bin\Debug\stachtestdatetime.exe
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\bin\Debug\stachtestdatetime.pdb
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.csprojAssemblyReference.cache
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.Form1.resources
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.Properties.Resources.resources
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.csproj.GenerateResource.cache
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.csproj.CoreCompileInputs.cache
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.exe
+G:\PROgramovani\stachtestdatetime\stachtestdatetime\obj\Debug\stachtestdatetime.pdb
